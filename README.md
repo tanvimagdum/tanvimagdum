@@ -1,27 +1,9 @@
-
-<!--
-**tanvimagdum/tanvimagdum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tanvi-magdum/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://tanvimagdum.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.instagram.com/tanvimagdum/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
@@ -30,25 +12,18 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Facebook-royalblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanvimagdum&style=flat-square&color=blue" alt=""/>
-</div>
-<h1 align="center">
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="600" height="400"/>
-</div>
 
----
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Tanvi  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" align="right" width="450" height="300"/>
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Boston, MA.
-- :telescope: I have worked as a Software Engineer and contributed to frontend and backend for building web applications.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Boston.
+- :classical_building: MSCS Student at Northeastern University.
+- :telescope: Worked as Software Engineer at Accenture.
 - :seedling: Exploring New Cutting-Edge Technologies.
-- :zap: In my free time, I solve problems on Leetcode, implement small web development projects and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tanvi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-magdum/)
+- :heart: Love to build web apps in free time.
+- :star: Check my portfolio: [![Portfolio Badge](https://img.shields.io/badge/-Tanvi-darkblue?style=flat&logo=Github&logoColor=white)](https://tanvimagdum.github.io/)
+
+<br />
 
 ---
 
@@ -78,5 +53,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanvimagdum&theme=dark&mode=weekly)](https://github.com/tanvimagdum)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvimagdum&layout=compact&theme=vision-friendly-dark)](https://github.com/tanvimagdum?tab=repositories)
-
-![Overall Language Statistics](https://img.shields.io/github/languages/count/tanvimagdum?label=Languages)
